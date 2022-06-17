@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281325984505']
-global.premium = ['6281325984505']
+global.owner = ['6285791677204','628886417385','6285380166282']
+global.premium = ['6285791677204','628886417385','6285380166282']
 global.packname = 'FauzyMD'
-global.author = 'FauzyXD'
+global.author = 'Nomor Bot:6281325984505'
 global.sessionName = 'session'
-global.prefa = ['/','!','.','#',',','_']
+global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
