@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Dika FauzyXD.
+   * Contact Me on wa.me/6285791677204
    * Follow https://github.com/DikaArdnt
 */
 
